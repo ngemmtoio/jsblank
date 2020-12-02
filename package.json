@@ -1,0 +1,6 @@
+{
+    "name": "jsblank",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
